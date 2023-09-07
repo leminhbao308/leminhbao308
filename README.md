@@ -22,10 +22,13 @@
 
 
 <h3 align="left">My Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leminhbao308&show_icons=true&theme=dracula&locale=en&layout=compact" alt="leminhbao308" /></p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=leminhbao308&hide_border=true&theme=transparent&show_icon=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leminhbao308&hide_border=true&theme=transparent&layout=compact&langs_count=8&card_width=320" />
+</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leminhbao308&show_icons=true&theme=dracula&locale=en" alt="leminhbao308" /></p>
-
-<h3 align="left">🎧 Listening with me</h3>
+<h3 align="left">🎧 Listening with me </h3>
 
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/5om561eyz77mchqw82t72v58f)

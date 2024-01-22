@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spigot Plugin API, Discord Bot Development**
 
-- 👨‍💻 All of my projects are available at [github.com/leminhbao308](github.com/leminhbao308)
+- 👨‍💻 All of my projects are available at [github.com/leminhbao308](https://github.com/leminhbao308)
 
 - 💬 Ask me about **Java, Java Script, NodeJS**
 

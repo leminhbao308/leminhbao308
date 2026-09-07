@@ -1,30 +1,109 @@
-<h1 align="center">Hi 👋, I'm Lê Minh Bảo a.k.a Broseidon</h1>
-<h3 align="center">Embrace the bugs, for they teach us the value of perseverance and creativity.</h3>
+<div align="center">
 
-- 👨‍💻 All of my projects are available at [github.com/leminhbao308](https://github.com/leminhbao308?tab=repositories)
+# Hi, I'm Le Minh Bao (a.k.a Broseidon)
 
-- 📫 How to reach me **leminhbao.work@gmail.com (1-2 days to respond)**
+> *"Embrace the bugs, for they teach us the value of perseverance and creativity."*
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://fb.com/lmbao.broseidon308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lmbao.broseidon308" height="30" width="40" /></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Backend+Developer;Full-Stack+Engineer;Microservices+Enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+</div>
 
+---
 
-<h3 align="center">My Stats:</h3>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=leminhbao308&hide_border=true&theme=transparent&show_icon=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leminhbao308&hide_border=true&theme=transparent&layout=compact&langs_count=8&card_width=320" />
-</a>
+## About Me
 
-<h3 align="left">Buy me a Ko-Fi?</h3>
+- Based in **Ho Chi Minh City, Vietnam** (UTC +07:00)
+- Currently working at **[FPT Information System](https://www.fpt-is.com/) — Ho Chi Minh City**
+- Focused on building scalable backend systems and full-stack web applications
+- Interested in microservices architecture, REST API design, and DevOps practices
+- Also maintain open-source Minecraft plugins at [**Code-In-Chill**](https://github.com/Code-In-Chill) as a side project
+- Reach me at **leminhbao.work@gmail.com** *(replies within 1–2 days)*
+
+---
+
+## Tech Stack
+
+**Languages:** Java · TypeScript · JavaScript · C
+
+**Backend:** Spring Boot · Node.js · REST API · Microservices
+
+**Frontend:** React · Next.js · Vite · Ant Design
+
+**DevOps & Tools:** Docker · Docker Compose · Jenkins · Git · Maven
+
+**Auth & Integrations:** Firebase (OTP) · JWT · API Gateway
+
+**Databases:** MySQL · MongoDB
+
+---
+
+## Projects
+
+### Smart Car Spa Management System
+
+A full-stack car care management platform built with a clean separation between backend services and the web client.
+
+| Repository | Description | Stack |
+|---|---|---|
+| [scsms-api-service](https://github.com/leminhbao308/scsms-api-service) | Backend REST API service | Spring Boot, Docker |
+| [smart-car-spa-web](https://github.com/leminhbao308/smart-car-spa-web) | Web client with Firebase OTP auth | Next.js, Ant Design, TypeScript |
+
+### Microservices E-commerce Platform
+
+A course project exploring software architecture and design patterns through a distributed system with multiple independent services.
+
+| Repository | Description | Stack |
+|---|---|---|
+| [Software_Architecture_And_Design](https://github.com/leminhbao308/Software_Architecture_And_Design) | Backend microservices (auth, cart, order, payment, product, report) | Spring Boot, Docker, Jenkins |
+| [software_architecture_and_design_ui](https://github.com/leminhbao308/software_architecture_and_design_ui) | Frontend web app | React, Vite, TypeScript, Docker |
+
+### Other Projects
+
+| Repository | Description | Stack |
+|---|---|---|
+| [chat-app-backend](https://github.com/leminhbao308/chat-app-backend) | Backend service for a real-time chat application | Node.js |
+| [System_Web_Technology](https://github.com/leminhbao308/System_Web_Technology) | Semester project — web front-end | HTML, CSS, JavaScript |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=leminhbao308&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leminhbao308&theme=transparent)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leminhbao308&theme=transparent)
+
+</div>
+
+---
+
+## Connect With Me
+
+- Facebook: [lmbao.Broseidon308](https://fb.com/lmbao.Broseidon308)
+- Instagram: [lmbao.3.08](https://www.instagram.com/lmbao.3.08/)
+- Ko-fi: [ko-fi.com/leminhbao](https://ko-fi.com/leminhbao)
+- Email: [leminhbao.work@gmail.com](mailto:leminhbao.work@gmail.com)
+
+---
+
+## Support My Work
+
+If you find my projects helpful, consider buying me a Ko-fi — it keeps the code (and the coffee) flowing!
+
+<div align="center">
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O0PBHBO)
 
+</div>
 
+---
 
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=leminhbao308&color=58A6FF&style=flat-square&label=Profile+Views)
+
+*Made with love from Ho Chi Minh City, Vietnam*
+
+</div>

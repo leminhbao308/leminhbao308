@@ -72,8 +72,11 @@ A course project exploring software architecture and design patterns through a d
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=leminhbao308&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leminhbao308&theme=transparent)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leminhbao308&theme=transparent)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=leminhbao308&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="165" alt="Bao's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=leminhbao308&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" height="165" alt="Bao's Top Languages" />
+</p>
 
 </div>
 
